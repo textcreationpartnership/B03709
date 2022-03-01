@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and cry after the worst of murderers, in the case of the Duke of Buckingham.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03709</idno>
+            <idno type="STC">Wing H3294A</idno>
+            <idno type="STC">ESTC R188852</idno>
+            <idno type="EEBO-CITATION">52529158</idno>
+            <idno type="OCLC">ocm 52529158</idno>
+            <idno type="VID">178808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03709)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178808)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2771:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and cry after the worst of murderers, in the case of the Duke of Buckingham.</title>
+                  <author>Wright, Mary, fl. 1679-1680.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.F. and are to be sold by W. Davis in Amen-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Includes two depositions on the attempted murder, from Mary Wright.</note>
+                  <note>Imperfect: creased with slight loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckingham, George Villiers, --  Duke of, 1628-1687 --  Assassination attempt, 1680 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:178808:1" rendition="simple:additions"/>
+            <head>A HUE and CRY AFTER THE Worſt of Murderers, In the CASE of the DUKE of <hi>B<g ref="char:V">Ʋ</g>CKINGHAM.</hi>
+            </head>
+            <p>NOtwithſtanding the Providence of God, and the good Succeſs that he has afforded from time to time in the Diſcovery and Defeating Subornation to others, as well as in the Caſe of that <hi>Helliſh</hi> and <hi>Damnable Conſpiracy,</hi> for the Murdering and taking away the Life of the Duke of <hi>Buckingham,</hi> by hiring falſe Witneſſes, of whom, no leſs than Nine Perſons were Indicted laſt Term, as alſo <hi>Le Marre</hi> and his Mother, the laſt <hi>Weſtminſter</hi> Seſſion; Yet, by the enſuing Informations may plainly ap<g ref="char:EOLhyphen"/>pear, that the unwearied Imps of the Devil being fruſtrated in that of <hi>Le<g ref="char:cmbAbbrStroke">̄</g> Marr,</hi> are induſtriouſly ſetting up another Villany, either of the ſame Nature, or for <hi>Rapes, Treaſon,</hi> or any thing, to murder a <hi>Peer</hi> by a Form of Juſtice, and ſuch a <hi>Peer,</hi> that none of theſe Conſpirators dare attempt openly to Aſſaſſinate, as of late hath been damnably practiced upon others.</p>
+            <p>That therefore theſe Miſcreants may be found out, if poſſible, the ſeveral Informations are here publiſhed, and if any Perſon can diſcover all or any of theſe Perſons, be they never ſo Great, to the end they may be apprehended, they are deſired to give Notice to his Grace the Duke of <hi>Buckingham</hi> at his Houſe at <hi>Cleveden,</hi> or to Mr. <hi>Edward Whittaker</hi> in St. <hi>Thomas Apoſtles, London,</hi> and they ſhall be very well rewarded for their Pains, and their Charges born.</p>
+            <div type="deposition">
+               <head>The Information of <hi>Mary Jenkins</hi> alias <hi>Wright,</hi> of <hi>Covent Garden</hi> in the County of <hi>Middleſex,</hi> taken on Oath before <hi>Sir William Waller,</hi> one of His Majeſties Juſtices of the Peace for the County of <hi>Middleſex,</hi> and City and Liberty of <hi>Weſtminſter,</hi> this <hi>25th</hi> of <hi>March 1680.</hi>
+               </head>
+               <p>THIS Informant ſaith, That about <hi>Chriſtmas</hi> laſt two Perſons came to this Informants Lodgings in <hi>Exeter Street;</hi> one of thoſe Perſons was a very Gentile young man, that wore a light coloured Chamblet Cloak, and the other a Tall Gentleman; both of which, by their Carriage and Habits, this Informant believes were Perſons of Quality; and ſaith, that at their firſt coming the ſaid Perſons did tell this Informant, that they had heard that this
+<pb n="2" facs="tcp:178808:2"/>Informant had Money owing her by the Duke of <hi>Buckingham,</hi> and offered their Service in helping this Informant to the ſaid Money, and ſaith, that the ſaid Perſons came again to this Informant, and then plainly told this Inform<g ref="char:EOLunhyphen"/>ant, they knew the Lord Duke to be a <hi>Great Rogue,</hi> and a Perſon that wa guilty of doing wicked things, and that it would be of great ſervice to the King and Kingdom, to have his Life, which they were reſolved to have what<g ref="char:EOLhyphen"/>ever it coſt; and told this Informant further, that if ſhe would ſwear Bug<g ref="char:EOLhyphen"/>gery againſt the ſaid Duke, or any thing elſe that they would direct her, then this Informant ſhould have Money and Gold enough, and at the ſame time pulling out a handful of Gold out of one of their Pockets, offered it to this Informant, provided ſhe this Informant would ſwear Buggery againſt the ſaid Duke, as they would direct her, and alſo promiſing this Informant to pro<g ref="char:EOLhyphen"/>vide a Lodging for her, and all things neceſſary for her and her Child; and to encourage this Informant to do ſuch a wicked Act, did Uſe many Argu<g ref="char:EOLhyphen"/>ments to perſwade this Informant ſo to do, telling this Informant that the King himſelf and the Council would ſtand by her in it, and told this Inform<g ref="char:EOLhyphen"/>ant, that ſhe might ſee how well Mrs. <hi>Le Marr</hi> was provided for, and what Money ſhe got by doing the like Buſineſs, and how well ſhe was rewarded by Perſons of Quality. And ſaith, that the ſaid Perſons told this Informant, that they had ſeveral Perſons would ſwear as they would have them, but they were not of ſuch Credit as this Informant, and therefore they preſſed this Informant earneſtly to do it; and at other times threatned this Informant, in caſe ſhe would not yield to them, although this Informant told the ſaid Perſons, ſhe knew nothing againſt the Lord Duke, nor would ſwear againſt him for the World; And ſaith, the ſaid Perſons came again on Monday night laſt, and ſent for this Informant into <hi>Lincolns-Inn-fields,</hi> under the Arch, in the Name of ſome of the Duke's Servants, and then they preſſed this Infor<g ref="char:EOLhyphen"/>mant earneſtly to ſwear againſt the ſaid Duke, as they would direct her, and would have carried this Informant to ſome Houſe, but this Informant not yielding any thing to their Deſigns, the ſaid Perſons bid the Informant con<g ref="char:EOLhyphen"/>ſider of the Matter, and give them her poſitive Anſwer on <hi>Friday</hi> next, when they would again meet her, and told her, they did not care, they would have it done, or elſe it ſhould coſt them their Lives, for they would have either his Life or he ſhould have theirs; but if it was diſcovered, it was but a Pillory Buſineſs, and did tell this Informant that they did not know but that the Duke might be Indicted the next Court ſitting, or to the like effect: And ſaith, that ſhe, this Informant, hath diſcovered how ſhe was thus tempted, both to my Lord <hi>Arron,</hi> and my Lord <hi>Vaughan,</hi> and to Eſquire <hi>Mansfield,</hi> and others of my Lord's Servants, and would have had their Advice how to avoid theſe temptations; and ſaith, that they have found her out at her new Lodgings, which this Informant took on purpoſe to avoid them, for that they had threatned this Informant to take away her Life, in caſe ſhe refuſed to ſwear as they would have her; and the ſaid Perſons told this Informant, that they had ſworn the Dukes Death, which he well knew, and pulled out a Paper out of one of their pockets, ready prepared, wherein was contained, what they would have ſuborned this Informant to ſwear to, which was about Buggery and Rapes, and other Crimes which this Informant knew no<g ref="char:EOLhyphen"/>thing of.</p>
+               <closer>
+                  <signed>MARY WRIGHT.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Cor. me</hi>
+                  </p>
+                  <closer>
+                     <signed>William Waller.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="deposition">
+               <pb n="3" facs="tcp:178808:2"/>
+               <head>The farther Information of <hi>Mary Wright</hi> Gentlewoman, taken upon Oath before Sir <hi>William Waller,</hi> one of his Majeſties Juſtices of the Peace, for the Coun<g ref="char:EOLhyphen"/>ty of <hi>Middleſex,</hi> and City and Liberty of <hi>Weſtminſter,</hi> this 6th day of <hi>April 1680.</hi>
+               </head>
+               <p>THIS Informant further ſaith, that ſince her laſt Information, the Per<g ref="char:EOLhyphen"/>ſons therein mentioned, did not come according to their Appointment, but that night or the next night after, which they had appointed, there came a Foot-man in a Livery with a Flambeau in his hand lighted, about twelve of the Clock at night, and called to this Informant, and this Informant an<g ref="char:EOLhyphen"/>ſwered him out of her Window, he told this Informant, that the Perſons that appointed to meet her about the Buſineſs ſhe knew of, could not come that Night, but they would wait on this Informant ſome other time, and this In<g ref="char:EOLhyphen"/>formant ſhall have further Notice thereof. And this Informant ſaith, that on <hi>Friday</hi> laſt, a Gentleman ſent for this Informant out, by a ſtrange Boy, and this Informant coming out with him, was met by the Gentleman, who put himſelf and this Informant in a Coach, and drew up the Window, and carri<g ref="char:EOLhyphen"/>ed this Informant to <hi>Red-lyon Fields</hi> nigh <hi>Grays Inn,</hi> and there ſet down, and ſo walking there, told this Imformant, that he came from the Gentlemen that had before been ſpeaking to this Informant about ſwearing againſt the Duke of <hi>Buckingham,</hi> and told this Informant, they preſented their Service to her; and this Informant demanding why they came not as they promiſed, he told this Informant, that they feared this Informant had betrayed them, for that they had a Letter ſent them by one that belonged to the Duke, that had gi<g ref="char:EOLhyphen"/>ven them Intimation, that this Informant had been at ſome of the Duke's Friends, and ſo were afraid to truſt this Informant, and pulled out the Let<g ref="char:EOLhyphen"/>ter, and ſhewed the back-ſide to this Informant, but this Informant not own<g ref="char:EOLhyphen"/>ing ſhe had diſcovered it, he renewed the ſame Diſcourſe of perſwading this Informant to ſwear againſt the Duke, as before ſhe had been deſired by thoſe Perſons; and to incourage this Informant, did tell this Informant plainly, that ſhe need not be afraid to ſwear againſt him, for there was Money enough to be had, and that there was one Lord in the <hi>Tower,</hi> would give this In<g ref="char:EOLhyphen"/>formant three or four hundred pound, beſides what others would give, and being demanded who that was, he would not now declare till next time; but this Informant asking what it was ſhe muſt ſwear againſt the ſaid Duke, was told it was either Buggery or Rape, or ſome ſuch things as they ſhould direct, and what need this Informant care, ſhe ſhould be brought off; if it came to the worſt it was but a Seſſions Buſineſs, and but a Fine, and that ſhall be taken care of, and told this Informant, that no Money was to be got, and theſe times would not laſt always, and they did look upon this Informant to be a credible Evidence, and being known among the Councel and Per<g ref="char:EOLhyphen"/>ſons of Quality, it would be more Advantage than all the reſt of the Wit<g ref="char:EOLhyphen"/>neſſes they had; and told this Informant, they would ſend for her away to be kept at ſome Lords Houſe, where ſhe ſhould be made much of, and told this Informant that the Money the Duke owed her would never be paid, for his Money ſhould be divided ſhortly, for they would have his Life whatever it coſt, though they hired all the Witneſſes in Town, and bid this Informant be careful, and give no Notice, and ſaith, that they would feign have had this Informant to go before a Juſtice to ſwear, as they would direct.</p>
+               <closer>
+                  <signed>Mary Wright.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>Capt. fuit cor. me</hi>
+                  </p>
+                  <closer>
+                     <signed>Will. Walller.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="conclusion">
+               <pb n="4" facs="tcp:178808:3"/>
+               <p>SINCE this laſt Information, there come one <hi>Lick</hi> a Footman in a Livery, about twelve of the Clock on <hi>Saturday</hi> night laſt, to Mrs. <hi>Wrights</hi> Lodg<g ref="char:EOLhyphen"/>ing in Little <hi>Catherine</hi>-ſtreet in <hi>Exeter</hi>-ſtreet, he diſcourſed her to this Effect, that he came from thoſe Gentlemen ſhe knew of, about the Buſineſs againſt the Duke of <hi>Buckingham,</hi> and told her, that they were reſolved to go on with their Deſign, notwithſtanding all, and if ſhe would yield to them, ſhe ſhould have double what before the Gentlemen had offered her, and ſhould be ſ<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hed away by an Order, and ſhe and her Daughter taken care of, and be brought to a place where ſhe ſhould ſee many ſhe knew, and he told her, that ſhe need not fear the Duke, for they were reſolved to have his Head, before the Lord <hi>Danby</hi> ſhould ſtand his Tryal, and a great deal of ſuch like Diſcourſes. And while he was talking with Mrs. <hi>Wright,</hi> ſhe overheard ſome Perſons call to him to come away, and Anſwer was made, yes my Lord, and ſhe ſaith there was a Coach came to the Lanes end, juſt before ſhe was knocked up, and believes it was the very ſame Perſons that had been with her under the Arch in <hi>Lincolns-Inn-Fields;</hi> and when they met by the Arch there was one in a plain Habit, buſhed yellow Hair, wearing a Sword, that did walk to and fro, and ſometimes come to them, threatning to force the Gentlewoman to comply with them, which Perſon is judged to be an <hi>Iriſh</hi> man, and one that ſolicits Buſineſs, and thoſe Gentlemen that then met her, one of them was ſince ſeen in a Mourning-Coach, a young brisk man, ſlen<g ref="char:EOLhyphen"/>der, and not very tall, but very gentile.</p>
+               <p>This being the Uſage to the Duke, it is not impoſſible if theſe Villains go undiſcovered, but others hereafter may find the like, therefore it is earneſt<g ref="char:EOLhyphen"/>ly deſired, that all good People will labour to diſcover ſome of thoſe Per<g ref="char:EOLhyphen"/>ſons, for they have been ſo bold, as to go from Place to Place, to hire Wit<g ref="char:EOLhyphen"/>neſſes, and offer Money as men bid for Horſes in <hi>Smith-field,</hi> ſo much they will give as Earneſt in hand, and ſo much when the Work is done, and they are free Chapmen, for they offer to be at any thing, either Treaſons, Rapes, Murder or Sodomy, any thing and any way, to have his Life.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. F.</hi> and are to be ſold by <hi>W. Davis</hi> in <hi>Amen-Corner</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
